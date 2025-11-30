@@ -7,7 +7,8 @@
 ---
 
 ## Preview
-![Dashboard Preview](images/Flipkart-Dashboard.png)
+![Dashboard Preview 1](images/flipkart-dashboard.png)
+![Dashboard Preview 2](images/flipkart-dashboard-2.png)
 
 ---
 
@@ -17,7 +18,7 @@ A Power BI dashboard analyzing Flipkart orders & customer data — category sale
 ---
 
 ## Files
-- `Flipkart_Dashboard.pbix` — Power BI file (download link: https://drive.google.com/file/d/1gqIgGZftNuavgs_I8IAbnfQmQCcw_s_l/view?usp=drive_link)  
+- `Flipkart_Dashboard.pbix` — Power BI file (download link: https://drive.google.com/drive/folders/1TpK2tQ6R4IwijA6w9moGzEZkRCI73njO?usp=drive_link)  
 - `images/dashboard.png` — preview screenshot  
 - `README.md` — this file
 
@@ -43,4 +44,5 @@ https://drive.google.com/drive/folders/1iMpZKG0AIRT9I8RiGx1-nv2HJgsGNx_o?usp=dri
 ---
 
 ## Contact
+
 Built by Pratham Hegde — find my LinkedIn: [www.linkedin.com/in/pratham-hegde-2472b2287]
