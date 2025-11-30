@@ -7,8 +7,8 @@
 ---
 
 ## Preview
-![Dashboard Preview 1](images/flipkart-dashboard.png)
-![Dashboard Preview 2](images/flipkart-dashboard-2.png)
+![Dashboard Preview 1](images/flipkart-dashboard-2.png)
+![Dashboard Preview 2](images/flipkart-dashboard.png)
 
 ---
 
@@ -46,3 +46,4 @@ https://drive.google.com/drive/folders/1iMpZKG0AIRT9I8RiGx1-nv2HJgsGNx_o?usp=dri
 ## Contact
 
 Built by Pratham Hegde — find my LinkedIn: [www.linkedin.com/in/pratham-hegde-2472b2287]
+
